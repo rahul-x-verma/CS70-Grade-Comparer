@@ -1,7 +1,6 @@
 #! /user/bin/env python3
 
 import sys
-import pprint
 import argparse
 
 parser = argparse.ArgumentParser()
