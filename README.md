@@ -10,8 +10,9 @@ Installation
 SSH into your instructional account and run the following commands:
 
 <ol>
-<li> <code> wget https://raw.githubusercontent.com/rahul-x-verma/CS70-Grade-Comparer/master/compare_grades.py </code> <br>
-<li> <code> chmod +x compare_grades.py </code>
+<li> <code> wget https://raw.githubusercontent.com/rahul-x-verma/CS70-Grade-Comparer/master/compare_grades.py </code> </li>
+<li> <code> chmod +x compare_grades.py </code> </li>
+</ol>
 
 Usage
 =================
