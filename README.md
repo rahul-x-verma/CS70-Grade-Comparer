@@ -1,4 +1,6 @@
-CS70GradeComparer
+CS70 Grade Comparer
 =================
 
-A python script for students of CS70 at UC Berkeley to output released grades in a cleaner format. 
+A python script for students of CS70 at UC Berkeley to use to see released grades in a more readable format and compare them to submitted self-grades.
+
+
